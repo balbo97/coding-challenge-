@@ -1,0 +1,69 @@
+body{
+   background-size: cover;
+    background-image: url(background.jpg);
+    
+}
+
+body>div{
+
+    width: 800px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    padding: 30px 30px;
+    font-style: helvetica;
+    border-radius: 2%;
+}
+
+body img{
+    max-width: 230px;
+    
+}
+
+header {
+    text-align: center;
+    color: #00FF00;
+   
+}
+
+nav{
+    text-align: center;
+    background-color: #00FF00 ;
+    width: 600px;
+    margin: auto;
+    
+    
+}
+
+div{
+    color: white;
+}
+
+div>h2{
+    display: inline-block;
+}
+
+#arancione{
+    width: 300px;
+    height: 25px;
+    background-color: orange;
+   
+}
+
+#verde{
+
+    width: 450px;
+    height: 25px;
+    background-color: rgb(92, 255, 47);
+}
+
+#rosso{
+
+    width: 150px;
+    height: 25px;
+    background-color: rgb(255, 0, 0);
+}
+
+div>h2 {
+    margin-bottom: 0;
+}
